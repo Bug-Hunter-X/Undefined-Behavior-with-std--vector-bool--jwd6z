@@ -1,0 +1,1 @@
+This example demonstrates a common error when using std::vector<bool> in C++.  Accessing elements with an index outside the vector's bounds leads to undefined behavior.  The solution shows how to properly check the index before access and/or use at() method.
